@@ -1,7 +1,9 @@
 
+What
+
   SLIME-GTK-UI -- is GTK UI tools for SLIME.
 
-What
+How
 
   M-x !describe -- show describe for object in separate window.
 
@@ -12,3 +14,4 @@ What
                    Also it posible to show subclasses (later).
 
   M-x !function -- show tree of flow graph for function, and each function can be cliked fo describe :)
+
